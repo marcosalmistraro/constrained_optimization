@@ -1,0 +1,1 @@
+This repository explores several concepts linked to **constrained optimization**, with a specific focus on applicability in the context of neural networks. The motivation for this work stems from the famous **OptNet** paper, exploring ties between optimization frameworks  layer-to-layer structures in multiply-connected networks. 
